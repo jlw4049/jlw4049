@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me via email 'jlw_4049@hotmail.com'
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jlw4049)](https://github.com/anuraghazra/github-readme-stats))
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlw4049)](https://github.com/anuraghazra/github-readme-stats))
 
 ![](https://komarev.com/ghpvc/?username=jlw4049&color=brightgreen&style=plastic)
 
