@@ -1,6 +1,6 @@
 👋 Hi, I’m @jlw4049
 
-![github into](https://user-images.githubusercontent.com/48299282/212203180-dcaddb09-aa63-420e-8cce-e0ac39d83cf1.png)
+![github inrto](https://user-images.githubusercontent.com/48299282/212203335-87765385-ea66-4dc5-b215-efb4ad57e44c.png)
 
 [![jlw4049's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jlw4049)](https://github.com/anuraghazra/github-readme-stats))
 
