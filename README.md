@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me via email 'jlw_4049@hotmail.com'
 
-https://github.com/insolitum/insolitum/raw/main/contributions.svg
+![](https://komarev.com/ghpvc/?username=jlw4049&color=brightgreen&style=plastic)
 
 <!---
 jlw4049/jlw4049 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
